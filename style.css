@@ -15,4 +15,13 @@
 .playing {
   transform:scale(1.1);
   border-color: #ffc600;
+  box-shadow: 0 0 5rem #ffc600;
+}
+
+.keys {
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  align-items: flex-start;
+  justify-content: center;
 }
