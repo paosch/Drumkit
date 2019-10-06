@@ -1,8 +1,12 @@
 # Drumkit #
 
-A program written to practise Vanilla JavaScript, HTML and CSS. When one clicks on a certain keyboard key, the program plays the sound associated with to key and does a short animation (it pops the button up and gives it a yellow border).
+A program written to practise Vanilla JavaScript, HTML and CSS. 
+<br></br>
+When one clicks on a certain keyboard key, the program plays the sound associated to that key and does a short animation (it pops the button up and gives it a yellow border).
+<br></br>
 
-
+To play the drums, go to https://paosch.github.io/Drumkit/
+<br></br>
 
 
 
